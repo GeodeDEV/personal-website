@@ -3,7 +3,7 @@ html, body{
     padding: 0;
     background: radial-gradient(
         ellipse at top,
-        #161616,
+        #171717,
         #000000
     );
     background-repeat: no-repeat;
@@ -213,7 +213,7 @@ html, body{
     inset: 0;
     overflow: hidden;
     pointer-events: none;
-    z-index: 0;
+    z-index: 1;
 }
 
 #stars{
